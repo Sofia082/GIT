@@ -1,0 +1,60 @@
+
+h1{
+    margin: 0;
+    text-align: center;}
+.red{
+    height: 100px;
+    background-color: red;
+    display: block;
+    
+}
+ .green{ 
+    height: 100px;
+    background-color: green;
+    display: block;
+    
+ }
+ .blue{
+     height: 100px;
+     background-color: blue;
+     display: block;
+    
+ }
+ .r{
+     width: 100px; ;
+     height: 100px;
+     background-color: rgb(100, 164, 254);
+     display: inline-block;
+     margin: 20px 0  0 0;
+ }
+ .g{
+     width: 100px;
+     height: 100px;
+     background-color: rgb(156, 674, 354);
+     display: inline-block;
+     margin: 20px 0 0 0 ;
+ }
+ .b{
+    width: 100px;
+    height: 100px;
+    background-color: rgb(150, 624, 154);
+    display: inline-block;
+    margin: 20px 0 0 0;
+ }
+  .y{
+      height: 100px;
+      width: 305px;
+      background-color: yellow;
+   }
+   .grey{
+       height: 100px;
+       width: 150px;
+       background-color: gray;
+       display:inline-block;
+   }
+    .dark{
+        height: 100px;
+        width: 150px;
+        background-color: darkblue;
+        display: inline-block;
+    }
